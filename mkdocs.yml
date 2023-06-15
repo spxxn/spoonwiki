@@ -1,5 +1,5 @@
 site_name: SpoonWiki
-site_url: http://www.spoonnet.net/wiki/
+site_url: https://wiki.spoonnet.net/
 theme: readthedocs
 nav:
     - Home: index.md
